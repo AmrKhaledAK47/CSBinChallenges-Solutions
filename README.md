@@ -3,3 +3,4 @@
 - [Callbacks challenge](http://csbin.io/callbacks) -> [my solution](https://github.com/AmrKhaledAK47/CSBinChallenges-Solutions/edit/main/callbacks.js)
 - [Closures challenge](http://csbin.io/closures) -> [my solution](https://github.com/AmrKhaledAK47/CSBinChallenges-Solutions/edit/main/closures.js)
 - [Asynchronous JavaScript challenge](http://csbin.io/async) -> [my solution](https://github.com/AmrKhaledAK47/CSBinChallenges-Solutions/edit/main/async.js)
+- [Promises challenge](http://csbin.io/promises) -> [my solution](https://github.com/AmrKhaledAK47/CSBinChallenges-Solutions/edit/main/promises.js)
